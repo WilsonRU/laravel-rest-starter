@@ -1,3 +1,7 @@
+## Laravel Rest Starter
+
+- v8.6.11
+
 ## Installation
 
 `git clone git@github.com:wilsonru/laravelreststarter.git` then `composer install`
