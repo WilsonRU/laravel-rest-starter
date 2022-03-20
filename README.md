@@ -4,7 +4,7 @@
 
 ## Installation
 
-`git clone git@github.com:wilsonru/laravelreststarter.git` then `composer install`
+`git clone git@github.com:wilsonru/laravel-rest-starter.git` then `composer install`
 
 ## Setup
 
